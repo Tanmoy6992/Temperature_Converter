@@ -1,6 +1,3 @@
-# In[1]:
-
-
 # Python Math & Time Modules
 import math
 import time
